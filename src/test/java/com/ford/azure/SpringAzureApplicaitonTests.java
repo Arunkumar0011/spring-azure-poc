@@ -1,10 +1,10 @@
-package com.ford.demo;
+package com.ford.azure;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class SpringAzureApplicaitonTests {
 
 	@Test
 	void contextLoads() {
